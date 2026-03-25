@@ -1,0 +1,1 @@
+﻿streamlit langchain langchain-community langchain-chroma langchain-huggingface langchain-classic sentence-transformers chromadb transformers beautifulsoup4
