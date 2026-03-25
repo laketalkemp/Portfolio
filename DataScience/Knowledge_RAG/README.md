@@ -33,7 +33,6 @@ Built for DSC 599: Teaching Methods at the University of California, San Diego.
 </ol>
 
 ## Deployment Notes (Streamlit Community Cloud)
-
 If deploying to Streamlit Community Cloud:
 <ol>
     <li>Connect your GitHub repository to Streamlit.</li>
@@ -41,3 +40,14 @@ If deploying to Streamlit Community Cloud:
     <li>Go to Advanced Settings > Secrets in the Streamlit deployment dashboard and add your API key like this:</li>
   <code>HUGGINGFACEHUB_API_TOKEN = "your_token_here"</code>
 </ol>    
+
+## Sample Queries
+Once the app is running, try asking the bot questions like:
+<ul>
+  <li>"What is the cold start problem in recommender systems?"</li>
+  <li>"Explain the difference between explicit and implicit feedback."</li>
+  <li>"How is collaborative filtering different from content-based filtering?"</li> 
+  <li>"What is the role of Jaccard similarity?"</li>
+  <li>"How can I implement the Jaccard similarity?"</li>
+  <li>"Write an equation for a latent factor model."</li>
+</ul>
